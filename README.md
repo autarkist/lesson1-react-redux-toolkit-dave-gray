@@ -17,3 +17,10 @@ git push -u origin main
 git remote add origin https://github.com/autarkist/lesson1-react-redux-toolkit-dave-gray.git
 git branch -M main
 git push -u origin main
+
+# Add a user field
+
+1. create a usersSlice.jsx file.
+2. add a usersReducer in a store file.
+3. go back to the postSlice and add a user field.
+4. go back to the AddPostForm file and design
