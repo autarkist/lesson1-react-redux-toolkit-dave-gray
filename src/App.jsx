@@ -10,7 +10,6 @@ function App() {
   return (
     <div className="App">
       <AddPostForm />
-      <h1>Posts</h1>
       <PostsList />
     </div>
   )
