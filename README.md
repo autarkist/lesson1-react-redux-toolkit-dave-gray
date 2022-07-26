@@ -24,3 +24,7 @@ git push -u origin main
 2. add a usersReducer in a store file.
 3. go back to the postSlice and add a user field.
 4. go back to the AddPostForm file and design
+
+# Add Time Stamps.
+
+- npm install date-fns
